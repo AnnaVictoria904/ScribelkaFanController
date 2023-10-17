@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scribelka-FanController</string>
+    <string name="off_on">Off/On</string>
+    <string name="speed">Speed</string>
+    <string name="controller_ip_address">Controller IP address</string>
+    <string name="nova_ip_controlador">New controller IP address</string>
+</resources>

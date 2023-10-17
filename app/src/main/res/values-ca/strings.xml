@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scribelka-FanController</string>
+    <string name="off_on">Apagat/Activat</string>
+    <string name="speed">Velocitat</string>
+    <string name="controller_ip_address">Adreça IP del controlador</string>
+    <string name="nova_ip_controlador">Nova adreça IP controlador</string>
+</resources>
