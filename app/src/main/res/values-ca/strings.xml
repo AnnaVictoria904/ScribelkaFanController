@@ -5,4 +5,6 @@
     <string name="speed">Velocitat</string>
     <string name="controller_ip_address">Adreça IP del controlador</string>
     <string name="nova_ip_controlador">Nova adreça IP controlador</string>
+    <string name="valueError">El valor a cada camp ha d\'estar entre 0 i 255.</string>
+    <string name="emptyField">Eips! Que hi ha cel·les buïdes!</string>
 </resources>

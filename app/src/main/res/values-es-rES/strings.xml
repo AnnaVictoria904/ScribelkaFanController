@@ -5,4 +5,6 @@
     <string name="speed">Velocidad</string>
     <string name="controller_ip_address">Dirección IP del controlador</string>
     <string name="nova_ip_controlador">Nueva dirección IP del controlador</string>
+    <string name="valueError">El valor en cada campo debe estar entre 0 y 255.</string>
+    <string name="emptyField">Eips! ¡Que hay celdas vacías!</string>
 </resources>

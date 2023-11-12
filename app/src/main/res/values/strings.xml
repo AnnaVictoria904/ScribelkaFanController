@@ -4,4 +4,6 @@
     <string name="speed">Speed</string>
     <string name="controller_ip_address">Controller IP address</string>
     <string name="nova_ip_controlador">New controller IP address</string>
+    <string name="valueError">The value in each field must be between 0 and 255.</string>
+    <string name="emptyField">Oops! There are empty cells!</string>
 </resources>
